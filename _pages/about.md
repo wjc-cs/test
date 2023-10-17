@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-coming soon.
+I am a Ph.D student advised by Prof. [Guoliang Li](https://dbgroup.cs.tsinghua.edu.cn/ligl/) at Database Group, Department of Computer Science and Technology, Tsinghua University.
 
-My research interest includes Spatio-Temporal data processing and query optimization. 
+My current research interest includes Spatio-Temporal data processing and query optimization in database with AI techniques. 
 
 
 # 🔥 News
