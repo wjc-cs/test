@@ -44,8 +44,8 @@ Jian Chen, Hong Gao, Kaiqi Zhang, <u>Jiachi Wang</u>, Yubo Luo, Zhenqing Wu, Jia
 - comming soon. 
 
 # 📖 Educations
-- *2024.09 - now*. Ph.D, Dept. of Computer Science and Technology, Tsinghua University, Beijing, China
-- *2020.09 - 2024.06*. Undergraduate, School of Future Technology, Harbin Institute of Technology, Harbin, China
+- *2024.09 - now*. Ph.D, Dept. of Computer Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/), Beijing, China
+- *2020.09 - 2024.06*. Undergraduate, School of Future Technology, [Harbin Institute of Technology](http://www.hit.edu.cn/main.htm), Harbin, China
 
 
 # 💻 Internships
