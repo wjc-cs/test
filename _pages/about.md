@@ -27,14 +27,14 @@ My current research interest includes Spatio-Temporal data processing and query 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2023</div><img src='images/QB_tree.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2023</div><img src='images/QB_tree.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Towards Efficient MIT query in Trajectory Data**
 
 Jian Chen, Hong Gao, Kaiqi Zhang, <u>Jiachi Wang</u>, Yubo Luo, Zhenqing Wu, Jianzhong Li.  2023 IEEE 39th International Conference on Data Engineering (ICDE)
 
-[**PDF**](https://ieeexplore.ieee.org/document/10184897) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<img src='images/R.png' alt="sym" width="50" height="30">[**PDF**](https://ieeexplore.ieee.org/document/10184897) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
