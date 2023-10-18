@@ -34,6 +34,7 @@ My current research interest includes Spatio-Temporal data processing and query 
 
 Jian Chen, Hong Gao, Kaiqi Zhang, <u>Jiachi Wang</u>, Yubo Luo, Zhenqing Wu, Jianzhong Li.  2023 IEEE 39th International Conference on Data Engineering (ICDE)
 
+!pdf icon
 [**PDF**](https://ieeexplore.ieee.org/document/10184897) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
