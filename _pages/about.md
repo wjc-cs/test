@@ -23,7 +23,7 @@ My current research interest includes Spatio-Temporal data processing and query 
 
 
 # 🔥 News
-- *2023.04*: &nbsp;🎉🎉 "Towards Efficient MIT query in Trajectory Data" was acceptd by ICDE 2023! :smile:
+- *2023.04*: &nbsp;🎉🎉 "Towards Efficient MIT query in Trajectory Data" was acceptd by ICDE 2023! 😊
 
 # 📝 Publications 
 
