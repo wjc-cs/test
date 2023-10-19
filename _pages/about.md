@@ -40,7 +40,7 @@ Jian Chen, Hong Gao, Kaiqi Zhang, <u>Jiachi Wang</u>, Yubo Luo, Zhenqing Wu, Jia
 </div>
 
 
-# 🎖 Honors and Awards
+# 🎖️ Honors and Awards
 - comming soon. 
 
 # 📖 Educations
