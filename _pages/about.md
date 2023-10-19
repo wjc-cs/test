@@ -27,7 +27,7 @@ My current research interest includes Spatio-Temporal data processing and query 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2023</div><img src='images/QB_tree.png' alt="sym" width="500" height="300"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2023</div><img src='images/QB_tree.png' alt="sym" width="1071" height="314"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Towards Efficient MIT query in Trajectory Data**
